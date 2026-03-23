@@ -1,0 +1,15 @@
+jupyter
+pandas
+pyarrow
+pyalex
+gender-guesser
+spacy
+gensim
+matplotlib
+seaborn
+scipy
+cmdstanpy
+arviz
+wordcloud
+tqdm
+openpyxl
